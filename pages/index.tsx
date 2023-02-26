@@ -8,13 +8,13 @@ import Hero from '@/components/Hero'
 import Features from '@/components/Features'
 import Deals from '@/components/Deals'
 import Categories from '@/components/Categories'
-import Offers from '@/components/Offers'
+import Offers from '@/components/Banners'
 import BestSellers from '@/components/BestSellers'
 import InfoBar from '@/components/InfoBar'
 import FurnitureProducts from '@/components/FurnitureProducts'
 import ElectronicProducts from '@/components/ElectronicProducts'
 import PopularSearchKeywords from '@/components/PopularSearchKeywords'
-import Banner from '@/components/Banner'
+import Banners from '@/components/Banners'
 import NewArrivals from '@/components/NewArrivals'
 import Brands from '@/components/Brands'
 
@@ -29,8 +29,8 @@ export default function Home() {
         <Features />
         <Deals /> 
         <Categories />
+        <Banners />
         {/*  
-        <Offers />
         <BestSellers />
         <InfoBar />
         <FurnitureProducts />
