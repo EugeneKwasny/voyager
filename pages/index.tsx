@@ -33,8 +33,8 @@ export default function Home() {
         <BestSellers />
         <InfoBar />
         <FurnitureProducts />
-        {/*  
         <ElectronicProducts />
+        {/*  
         <PopularSearchKeywords /> 
         <Banner />
         <NewArrivals />
