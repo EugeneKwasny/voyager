@@ -17,6 +17,7 @@ import PopularSearchKeywords from '@/components/PopularSearchKeywords'
 import Banners from '@/components/Banners'
 import NewArrivals from '@/components/NewArrivals'
 import Brands from '@/components/Brands'
+import Banner from '@/components/Banner'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -35,8 +36,8 @@ export default function Home() {
         <FurnitureProducts />
         <ElectronicProducts />
         <PopularSearchKeywords /> 
-        {/*  
         <Banner />
+        {/*  
         <NewArrivals />
         <Brands /> */}
      </main>
