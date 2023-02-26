@@ -25,20 +25,20 @@ export default function Home() {
     <>
      <SiteHeader />
      <main>
-      <Hero />
-      <Features />
-      {/* 
-      <Deals /> 
-      <Categories />
-      <Offers />
-      <BestSellers />
-      <InfoBar />
-      <FurnitureProducts />
-      <ElectronicProducts />
-      <PopularSearchKeywords /> 
-      <Banner />
-      <NewArrivals />
-      <Brands /> */}
+        <Hero />
+        <Features />
+        <Deals /> 
+        {/*  
+        <Categories />
+        <Offers />
+        <BestSellers />
+        <InfoBar />
+        <FurnitureProducts />
+        <ElectronicProducts />
+        <PopularSearchKeywords /> 
+        <Banner />
+        <NewArrivals />
+        <Brands /> */}
      </main>
      <SiteFooter />
     </>
