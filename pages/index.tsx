@@ -30,8 +30,8 @@ export default function Home() {
         <Deals /> 
         <Categories />
         <Banners />
-        {/*  
         <BestSellers />
+        {/*  
         <InfoBar />
         <FurnitureProducts />
         <ElectronicProducts />
