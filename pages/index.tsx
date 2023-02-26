@@ -34,8 +34,8 @@ export default function Home() {
         <InfoBar />
         <FurnitureProducts />
         <ElectronicProducts />
-        {/*  
         <PopularSearchKeywords /> 
+        {/*  
         <Banner />
         <NewArrivals />
         <Brands /> */}
