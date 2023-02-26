@@ -38,8 +38,7 @@ export default function Home() {
         <PopularSearchKeywords /> 
         <Banner />
         <NewArrivals />
-        {/*  
-        <Brands /> */}
+        <Brands />
      </main>
      <SiteFooter />
     </>
