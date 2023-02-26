@@ -26,7 +26,8 @@ export default function Home() {
      <SiteHeader />
      <main>
       <Hero />
-      {/* <Features />
+      <Features />
+      {/* 
       <Deals /> 
       <Categories />
       <Offers />
