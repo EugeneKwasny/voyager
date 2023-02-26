@@ -31,8 +31,8 @@ export default function Home() {
         <Categories />
         <Banners />
         <BestSellers />
-        {/*  
         <InfoBar />
+        {/*  
         <FurnitureProducts />
         <ElectronicProducts />
         <PopularSearchKeywords /> 
