@@ -37,8 +37,8 @@ export default function Home() {
         <ElectronicProducts />
         <PopularSearchKeywords /> 
         <Banner />
-        {/*  
         <NewArrivals />
+        {/*  
         <Brands /> */}
      </main>
      <SiteFooter />
