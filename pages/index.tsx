@@ -28,8 +28,8 @@ export default function Home() {
         <Hero />
         <Features />
         <Deals /> 
-        {/*  
         <Categories />
+        {/*  
         <Offers />
         <BestSellers />
         <InfoBar />
