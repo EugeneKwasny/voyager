@@ -32,8 +32,8 @@ export default function Home() {
         <Banners />
         <BestSellers />
         <InfoBar />
-        {/*  
         <FurnitureProducts />
+        {/*  
         <ElectronicProducts />
         <PopularSearchKeywords /> 
         <Banner />
